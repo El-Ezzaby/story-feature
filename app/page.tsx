@@ -132,7 +132,7 @@ export default function StoriesPage() {
 
         {/* Header title */}
         <div className="px-6 py-4 border-b border-gray-200">
-          <h1 className="text-lg font-bold bg-gradient-to-trfrom-yellow-400 via-red-500 to-purple-600 bg-clip-text text-transparent inline-block">
+          <h1 className="text-lg font-bold bg-gradient-to-tr from-yellow-400 via-red-500 to-purple-600 bg-clip-text text-transparent inline-block">
             Stories Feed
           </h1>
         </div>
